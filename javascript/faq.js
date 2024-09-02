@@ -1,24 +1,34 @@
 // Define an array of FAQ objects
 const faqs = [
   {
-    question: "Apa bahan dasar mukena yang digunakan?",
+    question:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quos.?",
     answer:
-      "Mukena kami dibuat dari bahan berkualitas tinggi seperti katun dan sutra, yang nyaman dan cocok untuk digunakan sehari-hari.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat minus, nemo soluta a, quod quisquam iure itaque voluptate, praesentium molestias recusandae culpa perspiciatis ut officiis consequuntur dolore esse cupiditate.",
   },
   {
-    question: "Bagaimana cara perawatan mukena?",
+    question:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quos.?",
     answer:
-      "Mukena sebaiknya dicuci dengan tangan menggunakan deterjen yang lembut dan dijemur di tempat yang teduh untuk menjaga kualitas bahan.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat minus, nemo soluta a, quod quisquam iure itaque voluptate, praesentium molestias recusandae culpa perspiciatis ut officiis consequuntur dolore esse cupiditate.",
   },
   {
-    question: "Apakah tersedia ukuran khusus?",
+    question:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quos.?",
     answer:
-      "Kami menyediakan berbagai ukuran mukena, termasuk ukuran khusus yang dapat dipesan sesuai kebutuhan pelanggan.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat minus, nemo soluta a, quod quisquam iure itaque voluptate, praesentium molestias recusandae culpa perspiciatis ut officiis consequuntur dolore esse cupiditate.",
   },
   {
-    question: "Berapa lama waktu pengiriman?",
+    question:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quos.?",
     answer:
-      "Waktu pengiriman mukena biasanya memakan waktu 3-5 hari kerja tergantung lokasi pengiriman.",
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat minus, nemo soluta a, quod quisquam iure itaque voluptate, praesentium molestias recusandae culpa perspiciatis ut officiis consequuntur dolore esse cupiditate.",
+  },
+  {
+    question:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, quos.?",
+    answer:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat minus, nemo soluta a, quod quisquam iure itaque voluptate, praesentium molestias recusandae culpa perspiciatis ut officiis consequuntur dolore esse cupiditate.",
   },
 ];
 
